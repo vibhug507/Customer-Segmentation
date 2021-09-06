@@ -1,4 +1,4 @@
-# user-segmentation
+# Customer-Segmentation
 Algorithm Used - KMeans
 
 Followed RMF (Recency,Monetary,Frequency) Segmentation to cluster customers based on their purchasing habits.
